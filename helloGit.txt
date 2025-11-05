@@ -1,1 +1,3 @@
 still messing around with git
+created a new branch called "experimental"
+still learning how branches work
